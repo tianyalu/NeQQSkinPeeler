@@ -1,0 +1,4 @@
+include ':skin_lib'
+include ':qq_ui_package'
+include ':app'
+rootProject.name = "NeQQSkinPeeler"
